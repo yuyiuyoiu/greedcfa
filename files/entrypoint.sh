@@ -2,7 +2,7 @@
 
 # 设置各变量
 WSPATH=${WSPATH:-'argo'}
-UUID=${UUID:-'97126cd4-1095-48e8-b8dd-c479d1b65abb'}
+UUID=${UUID:-'b6a5c7eb-19c6-4151-8b3b-2328d6103292'}
 WEB_USERNAME=${WEB_USERNAME:-'admin'}
 WEB_PASSWORD=${WEB_PASSWORD:-'password'}
 
